@@ -1,2 +1,2 @@
-# meu-site-local
- Projeto local criado para estudo, testes e versionamento com Git/GitHub.
+# meu-projeto-html
+Projeto local para testes, estudos e desenvolvimento com versionamento via GitHub.
